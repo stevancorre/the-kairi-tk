@@ -1,19 +1,49 @@
-# TheKairi.tk 🌮
+<h1 align="center">
+    <br>
+    <a href="https://stevancorre.github.io/the-kairi.tk/">
+        <img src="https://i.imgur.com/boVMAqu.png" alt="TheKairi.tk icon" width="200">
+    </a>
+    <br>
+    TheKairi.tk
+    <br>
+</h1>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h4 align="center">A little website made for fun.</h4>
 
-This project is made only for fun.
+<p align="center">
+    <a href="https://www.w3.org/Style/CSS/">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    </a>
+    <a href="https://www.w3.org/html/">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    </a>
+    <a href="https://paypal.me/aiixu">
+        <img src="https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+    </a>
+</p>
 
-This is a simple website written in HTML/CSS with a bit of JS for the randomizing part.  
-See: [the-kairi.tk](https://the-kairi.tk).
+<p align="center">
+    <a href="https://the-kairi.tk">Online</a> •
+    <a href="#preview">Preview</a> •
+    <a href="#credits">Credits</a> •
+    <a href="#license">License</a>
+</p>
 
 ## 🖼️ Preview
 
-![Website preview](https://i.imgur.com/8w4JFBY.gif)
+<div align="center">
+    <img src="https://i.imgur.com/8w4JFBY.gif" alt="TheKairi.tk preview">
+</div>
 
-## 👑 Credits
+<br>
+
+## 📝 License
+
+This project is <a href="https://opensource.org/licenses/MIT">MIT</a> licensed.
+
+<br>
+
+## Credits
 
 I'm not affiliated with TheKairi in any way.
 
